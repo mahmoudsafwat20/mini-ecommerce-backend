@@ -1,0 +1,17 @@
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\bin\Debug\net9.0\mini-ecommerce-backend.Presistance.deps.json
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\bin\Debug\net9.0\mini-ecommerce-backend.Presistance.runtimeconfig.json
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\bin\Debug\net9.0\mini-ecommerce-backend.Presistance.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\bin\Debug\net9.0\mini-ecommerce-backend.Presistance.pdb
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\bin\Debug\net9.0\mini-ecommerce-backend.Domain.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\bin\Debug\net9.0\mini-ecommerce-backend.Domain.pdb
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\mini-ecommerce-backend.Presistance.csproj.AssemblyReference.cache
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\mini-ecommerce-backend.Presistance.GeneratedMSBuildEditorConfig.editorconfig
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\mini-ecommerce-backend.Presistance.AssemblyInfoInputs.cache
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\mini-ecommerce-backend.Presistance.AssemblyInfo.cs
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\mini-ecommerce-backend.Presistance.csproj.CoreCompileInputs.cache
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\mini-eco.A43C61EB.Up2Date
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\mini-ecommerce-backend.Presistance.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\refint\mini-ecommerce-backend.Presistance.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\mini-ecommerce-backend.Presistance.pdb
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\mini-ecommerce-backend.Presistance.genruntimeconfig.cache
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Presistance\obj\Debug\net9.0\ref\mini-ecommerce-backend.Presistance.dll

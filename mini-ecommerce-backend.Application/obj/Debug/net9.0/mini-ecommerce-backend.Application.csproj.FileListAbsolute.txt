@@ -1,0 +1,11 @@
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\bin\Debug\net9.0\mini-ecommerce-backend.Application.deps.json
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\bin\Debug\net9.0\mini-ecommerce-backend.Application.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\bin\Debug\net9.0\mini-ecommerce-backend.Application.pdb
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\obj\Debug\net9.0\mini-ecommerce-backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\obj\Debug\net9.0\mini-ecommerce-backend.Application.AssemblyInfoInputs.cache
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\obj\Debug\net9.0\mini-ecommerce-backend.Application.AssemblyInfo.cs
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\obj\Debug\net9.0\mini-ecommerce-backend.Application.csproj.CoreCompileInputs.cache
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\obj\Debug\net9.0\mini-ecommerce-backend.Application.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\obj\Debug\net9.0\refint\mini-ecommerce-backend.Application.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\obj\Debug\net9.0\mini-ecommerce-backend.Application.pdb
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Application\obj\Debug\net9.0\ref\mini-ecommerce-backend.Application.dll

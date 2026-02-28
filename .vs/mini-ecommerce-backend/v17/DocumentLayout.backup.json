@@ -1,0 +1,628 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|solutionrelative:mini-ecommerce-backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|solutionrelative:mini-ecommerce-backend.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.infrastructure\\services\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|solutionrelative:mini-ecommerce-backend.infrastructure\\services\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.infrastructure\\services\\getorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|solutionrelative:mini-ecommerce-backend.infrastructure\\services\\getorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.infrastructure\\services\\listproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|solutionrelative:mini-ecommerce-backend.infrastructure\\services\\listproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\interfaces\\igetorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\interfaces\\igetorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\interfaces\\icreateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\interfaces\\icreateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|solutionrelative:mini-ecommerce-backend.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.infrastructure\\services\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|solutionrelative:mini-ecommerce-backend.infrastructure\\services\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\interfaces\\ilistproducts1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\interfaces\\ilistproducts1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\interfaces\\icreateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\interfaces\\icreateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.api\\mini-ecommerce-backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|solutionrelative:mini-ecommerce-backend.api\\mini-ecommerce-backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD9B719-A24D-4ADA-A545-2CEF0115B694}|mini-ecommerce-backend.Presentation\\mini-ecommerce-backend.Presentation.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.presentation\\mini-ecommerce-backend.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BD9B719-A24D-4ADA-A545-2CEF0115B694}|mini-ecommerce-backend.Presentation\\mini-ecommerce-backend.Presentation.csproj|solutionrelative:mini-ecommerce-backend.presentation\\mini-ecommerce-backend.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\dtos\\request\\paginatedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\dtos\\request\\paginatedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\dtos\\request\\orederrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\dtos\\request\\orederrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|solutionrelative:mini-ecommerce-backend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|solutionrelative:mini-ecommerce-backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.api\\mini-ecommerce-backend.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E381FDF3-597E-46CC-BB0B-4B9E61DAE341}|mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj|solutionrelative:mini-ecommerce-backend.api\\mini-ecommerce-backend.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.infrastructure\\extensions\\paginatedexstention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180334CD-EA7C-4553-BC1B-9D4D6CE2DD97}|mini-ecommerce-backend.Infrastructure\\mini-ecommerce-backend.Infrastructure.csproj|solutionrelative:mini-ecommerce-backend.infrastructure\\extensions\\paginatedexstention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\dtos\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\dtos\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE834EB-A6DF-494A-AA11-F87408038E71}|mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.presistance\\repo\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE834EB-A6DF-494A-AA11-F87408038E71}|mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj|solutionrelative:mini-ecommerce-backend.presistance\\repo\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE834EB-A6DF-494A-AA11-F87408038E71}|mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.presistance\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE834EB-A6DF-494A-AA11-F87408038E71}|mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj|solutionrelative:mini-ecommerce-backend.presistance\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE834EB-A6DF-494A-AA11-F87408038E71}|mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.presistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE834EB-A6DF-494A-AA11-F87408038E71}|mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj|solutionrelative:mini-ecommerce-backend.presistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE834EB-A6DF-494A-AA11-F87408038E71}|mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.presistance\\mini-ecommerce-backend.presistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCE834EB-A6DF-494A-AA11-F87408038E71}|mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj|solutionrelative:mini-ecommerce-backend.presistance\\mini-ecommerce-backend.presistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\Migrations\\20260228130014_IncialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mini-ecommerce-backend.Presistance\\Migrations\\20260228130014_IncialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\dtos\\request\\itemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\dtos\\request\\itemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\dtos\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\dtos\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\dtos\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\dtos\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\dtos\\response\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\dtos\\response\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\mini-ecommerce-backend.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\mini-ecommerce-backend.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|h:\\safwat\\api\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.domain\\interfaces\\repo\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3018D24B-8FC1-4E9B-9CA6-424923674B82}|mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj|solutionrelative:mini-ecommerce-backend.domain\\interfaces\\repo\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAEAAACimZmZmTkwwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T15:07:16.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Services\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Infrastructure\\Services\\CreateProduct.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Services\\CreateProduct.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Infrastructure\\Services\\CreateProduct.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T13:17:53.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListProducts.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Services\\ListProducts.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Infrastructure\\Services\\ListProducts.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Services\\ListProducts.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Infrastructure\\Services\\ListProducts.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T14:17:15.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICreateOrder.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\ICreateOrder.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\Interfaces\\ICreateOrder.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\ICreateOrder.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\Interfaces\\ICreateOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:09:49.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGetOrder.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\IGetOrder.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\Interfaces\\IGetOrder.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\IGetOrder.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\Interfaces\\IGetOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:23:05.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetOrder.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Services\\GetOrder.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Infrastructure\\Services\\GetOrder.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Services\\GetOrder.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Infrastructure\\Services\\GetOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T14:26:46.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrder.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Services\\CreateOrder.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Infrastructure\\Services\\CreateOrder.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Services\\CreateOrder.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Infrastructure\\Services\\CreateOrder.cs",
+              "ViewState": "AgIAADIAAAAAODMzM7MbwEYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T13:30:12.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\Program.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.API\\Program.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\Program.cs*",
+              "RelativeToolTip": "mini-ecommerce-backend.API\\Program.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwC0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:48:18.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAA4AAADA/////z8uwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T15:37:28.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IListProducts1.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\IListProducts1.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\Interfaces\\IListProducts1.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\IListProducts1.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\Interfaces\\IListProducts1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:59:59.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICreateProduct.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\ICreateProduct.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\Interfaces\\ICreateProduct.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\ICreateProduct.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\Interfaces\\ICreateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:36:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mini-ecommerce-backend.API",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj",
+              "RelativeToolTip": "mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T12:50:05.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "mini-ecommerce-backend.Presentation",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presentation\\mini-ecommerce-backend.Presentation.csproj",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Presentation\\mini-ecommerce-backend.Presentation.csproj",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presentation\\mini-ecommerce-backend.Presentation.csproj",
+              "RelativeToolTip": "mini-ecommerce-backend.Presentation\\mini-ecommerce-backend.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T14:43:08.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\Models\\Order.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:20:04.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrederRequest.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\OrederRequest.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\DTOs\\Request\\OrederRequest.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\OrederRequest.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\DTOs\\Request\\OrederRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:14:12.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\Models\\Product.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:19:24.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaginatedRequest.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\PaginatedRequest.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\DTOs\\Request\\PaginatedRequest.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\PaginatedRequest.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\DTOs\\Request\\PaginatedRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:44:08.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\appsettings.json",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.API\\appsettings.json",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\appsettings.json",
+              "RelativeToolTip": "mini-ecommerce-backend.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T12:46:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "mini-ecommerce-backend.API",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj",
+              "RelativeToolTip": "mini-ecommerce-backend.API\\mini-ecommerce-backend.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T14:36:35.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.API\\Properties\\launchSettings.json",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "mini-ecommerce-backend.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T14:36:38.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaginatedExstention.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Extensions\\PaginatedExstention.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Infrastructure\\Extensions\\PaginatedExstention.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Infrastructure\\Extensions\\PaginatedExstention.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Infrastructure\\Extensions\\PaginatedExstention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T14:22:50.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Response\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\DTOs\\Response\\BaseResponse.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Response\\BaseResponse.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\DTOs\\Response\\BaseResponse.cs",
+              "ViewState": "AgIAABEAAAAA8v///38fwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:45:28.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\Repo\\Repositories.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Presistance\\Repo\\Repositories.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\Repo\\Repositories.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Presistance\\Repo\\Repositories.cs",
+              "ViewState": "AgIAAB0AAABAxczMzIwiwAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T13:09:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Presistance\\UnitOfWork.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\UnitOfWork.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Presistance\\UnitOfWork.cs",
+              "ViewState": "AgIAABIAAAAAlJmZmZkCwB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T13:04:31.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260228130014_IncialCreate.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\Migrations\\20260228130014_IncialCreate.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Presistance\\Migrations\\20260228130014_IncialCreate.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\Migrations\\20260228130014_IncialCreate.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Presistance\\Migrations\\20260228130014_IncialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T13:00:14.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Presistance\\ApplicationDbContext.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\ApplicationDbContext.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Presistance\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:42:26.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "mini-ecommerce-backend.Presistance",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj",
+              "RelativeToolTip": "mini-ecommerce-backend.Presistance\\mini-ecommerce-backend.Presistance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T12:32:04.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:29:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\DTOs\\Request\\CustomerRequest.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\CustomerRequest.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\DTOs\\Request\\CustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:16:39.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ItemRequest.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\ItemRequest.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\DTOs\\Request\\ItemRequest.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\ItemRequest.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\DTOs\\Request\\ItemRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:15:22.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Response\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\DTOs\\Response\\PaginatedResponse.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Response\\PaginatedResponse.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\DTOs\\Response\\PaginatedResponse.cs",
+              "ViewState": "AgIAACAAAACAQDMzM7MTwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:58:05.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\Models\\Customer.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:20:31.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\DTOs\\Request\\ProductRequest.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\DTOs\\Request\\ProductRequest.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\DTOs\\Request\\ProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:37:58.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\Repo\\IRepository.cs",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\Interfaces\\Repo\\IRepository.cs",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\Interfaces\\Repo\\IRepository.cs",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\Interfaces\\Repo\\IRepository.cs",
+              "ViewState": "AgIAAAQAAACQaGZmZuYcwBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:32:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "mini-ecommerce-backend.Domain",
+              "DocumentMoniker": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj",
+              "RelativeDocumentMoniker": "mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj",
+              "ToolTip": "H:\\safwat\\API\\mini-ecommerce-backend\\mini-ecommerce-backend\\mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj",
+              "RelativeToolTip": "mini-ecommerce-backend.Domain\\mini-ecommerce-backend.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T11:16:02.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

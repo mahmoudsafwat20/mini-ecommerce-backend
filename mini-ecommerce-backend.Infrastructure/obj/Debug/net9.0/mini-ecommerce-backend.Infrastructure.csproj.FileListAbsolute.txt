@@ -1,0 +1,15 @@
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\bin\Debug\net9.0\mini-ecommerce-backend.Infrastructure.deps.json
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\bin\Debug\net9.0\mini-ecommerce-backend.Infrastructure.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\bin\Debug\net9.0\mini-ecommerce-backend.Infrastructure.pdb
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\mini-ecommerce-backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\mini-ecommerce-backend.Infrastructure.AssemblyInfoInputs.cache
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\mini-ecommerce-backend.Infrastructure.AssemblyInfo.cs
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\mini-ecommerce-backend.Infrastructure.csproj.CoreCompileInputs.cache
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\mini-ecommerce-backend.Infrastructure.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\refint\mini-ecommerce-backend.Infrastructure.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\mini-ecommerce-backend.Infrastructure.pdb
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\ref\mini-ecommerce-backend.Infrastructure.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\bin\Debug\net9.0\mini-ecommerce-backend.Domain.dll
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\bin\Debug\net9.0\mini-ecommerce-backend.Domain.pdb
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\mini-ecommerce-backend.Infrastructure.csproj.AssemblyReference.cache
+H:\safwat\API\mini-ecommerce-backend\mini-ecommerce-backend\mini-ecommerce-backend.Infrastructure\obj\Debug\net9.0\mini-eco.C314E809.Up2Date
